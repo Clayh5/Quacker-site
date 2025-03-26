@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Quackers - Mini Resin Ducks</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; background: #f0f8ff; }
+        h1 { color: #ff4500; }
+        .duck { max-width: 200px; }
+        button { padding: 10px; background: #32cd32; color: white; border: none; cursor: pointer; }
+    </style>
+</head>
+<body>
+    <h1>Quackers - Mini Resin Ducks</h1>
+    <p>Only $0.20 each!</p>
+    <img class="duck" src="https://via.placeholder.com/200x200.png?text=Duck+Image" alt="Mini Duck">
+    <p>Tiny, cute, collectible resin ducks.</p>
+    <a href="https://paypal.me/yourpaypal?amount=0.20"><button>Buy Now - $0.20</button></a>
+    <p>Contact: <a href="mailto:your@email.com">your@email.com</a></p>
+</body>
+</html>
